@@ -1,0 +1,55 @@
+{
+  "_from": "jshint-loader@0.8.3",
+  "_id": "jshint-loader@0.8.3",
+  "_inBundle": false,
+  "_integrity": "sha512-HRWS+fAUyM3Wg1P3GJPBU3nLXGlcjsus5cWJx+nrhXpZ7k69ToGOeQ3gWNlHxM48cIGVlG73O0hsrY+O/CO/9Q==",
+  "_location": "/jshint-loader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "jshint-loader@0.8.3",
+    "name": "jshint-loader",
+    "escapedName": "jshint-loader",
+    "rawSpec": "0.8.3",
+    "saveSpec": null,
+    "fetchSpec": "0.8.3"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/jshint-loader/-/jshint-loader-0.8.3.tgz",
+  "_shasum": "6a16ce887e4d2f1bafbde0575e3c10f7bd2e694b",
+  "_spec": "jshint-loader@0.8.3",
+  "_where": "C:\\Users\\VICTOR\\node-v6.10.3-win-x64\\node-v6.10.3-win-x64\\node_modules",
+  "author": {
+    "name": "Tobias Koppers @sokra"
+  },
+  "bugs": {
+    "url": "https://github.com/webpack/jshint-loader/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "loader-utils": "0.2.x",
+    "rcloader": "=0.1.2",
+    "strip-json-comments": "0.1.x"
+  },
+  "deprecated": false,
+  "description": "jshint loader module for webpack",
+  "homepage": "https://github.com/webpack/jshint-loader#readme",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "name": "jshint-loader",
+  "peerDependencies": {
+    "jshint": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/webpack/jshint-loader.git"
+  },
+  "version": "0.8.3"
+}
